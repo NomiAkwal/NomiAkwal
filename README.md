@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nomi Akwal</h1>
-<h3 align="center">Social Worker</h3>
+<h3 align="center">CSR @Jazz | Ex Computer Operator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomiakwal&label=Profile%20views&color=0e75b6&style=flat" alt="nomiakwal" /> </p>
 
